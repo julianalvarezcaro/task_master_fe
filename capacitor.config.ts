@@ -1,9 +1,9 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'task_master_fe',
-  webDir: 'dist'
+  appId: 'com.local.taskmaster',
+  appName: 'TaskMaster',
+  webDir: 'build'
 };
 
 export default config;
